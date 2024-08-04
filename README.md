@@ -1,4 +1,5 @@
 #你好！新的一天，从一场美妙的邂逅开始~♪  
+May you, the beauty of this world, always shine. -你便是世界上的美好，永远闪耀。
 ![zxymiku's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxymiku&show_icons=true&theme=radical)  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxymiku&layout=compact" />

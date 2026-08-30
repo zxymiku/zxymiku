@@ -14,8 +14,6 @@
 - 🎓 目前还是一名大学生
 - 🔩 主要在搞**嵌入式开发**，经常和 STM32 打交道
 - 🚩 CTF 爱好者
-- 🌐 Web 方向也没落下：TypeScript / JavaScript 写过不少小玩意，偶尔也用 Python / Rust / Java
-- ☁️ **Cloudflare Workers** 爱好者，白嫖党的自我修养
 - 🎐 宅系 / 二次元文化爱好者，MIKU 的忠实听众 🎵
 - 🌙 白天写代码，晚上……也在写代码
 
@@ -69,8 +67,6 @@
     <img src="https://img.shields.io/badge/Email%20%28Base64%29-enh5bWlrdUB6eHltaWt1LnRvcA%3D%3D-3fb950?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Email (Base64)" />
   </a>
 </div>
-
-<p align="center"><sub>🔐 想拿我的邮箱？上面那串 Base64 解一下就有了 —— CTFer 懂的都懂</sub></p>
 
 ---
 

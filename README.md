@@ -11,23 +11,20 @@
 
 ## 🧐 关于我 / About Me
 
-- 🌱 热爱折腾 Web 应用和各种能提升幸福感的小工具
-- 🔧 主力 **TypeScript / JavaScript**，偶尔用 **Python** 干点自动化的小活
+- 🎓 目前还是一名大学生
+- 🔩 主要在搞**嵌入式开发**，经常和 STM32 打交道
+- 🌐 Web 方向也没落下：TypeScript / JavaScript 写过不少小玩意，偶尔也用 Python / Rust / Java
 - ☁️ **Cloudflare Workers** 爱好者，白嫖党的自我修养
 - 🎐 宅系 / 二次元文化爱好者，MIKU 的忠实听众 🎵
 - 🌙 白天写代码，晚上……也在写代码
 
-## 🛠️ 技术栈 / Tech Stack
+## 🛠️ 我所用的工具 / Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,python,cloudflare,git,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,ts,js,nodejs,html,css,python,cloudflare,git,vscode" alt="Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
 </div>
-
-## 📦 关于我的仓库 / Repositories
-
-> 🥚 大部分项目正在私有仓库里悄悄孵化中，等到破壳那天会陆续公开的～
->
-> 公开的部分欢迎随便逛逛，也欢迎来 [我的主页](https://www.zxymiku.top) 找我玩！
 
 ## 📊 GitHub 统计 / Stats
 
@@ -49,8 +46,6 @@
   </picture>
 </div>
 
-<p align="center"><i>统计卡片仅统计公开仓库的贡献，私有项目不在其列～</i></p>
-
 ## 🐍 贪吃蛇时间 / Snake
 
 <div align="center">
@@ -66,6 +61,9 @@
 <div align="center">
   <a href="https://www.zxymiku.top">
     <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-zxymiku.top-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:zxymiku@zxymiku.top">
+    <img src="https://img.shields.io/badge/Email-zxymiku%40zxymiku.top-58a6ff?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
 </div>
 

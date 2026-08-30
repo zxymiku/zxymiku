@@ -13,7 +13,7 @@
 
 - 🎓 目前还是一名大学生
 - 🔩 主要在搞**嵌入式开发**，经常和 STM32 打交道
-- 🚩 CTF 爱好者，邮箱都是加密的（见下方）
+- 🚩 CTF 爱好者
 - 🌐 Web 方向也没落下：TypeScript / JavaScript 写过不少小玩意，偶尔也用 Python / Rust / Java
 - ☁️ **Cloudflare Workers** 爱好者，白嫖党的自我修养
 - 🎐 宅系 / 二次元文化爱好者，MIKU 的忠实听众 🎵

@@ -13,6 +13,7 @@
 
 - 🎓 目前还是一名大学生
 - 🔩 主要在搞**嵌入式开发**，经常和 STM32 打交道
+- 🚩 CTF 爱好者，邮箱都是加密的（见下方）
 - 🌐 Web 方向也没落下：TypeScript / JavaScript 写过不少小玩意，偶尔也用 Python / Rust / Java
 - ☁️ **Cloudflare Workers** 爱好者，白嫖党的自我修养
 - 🎐 宅系 / 二次元文化爱好者，MIKU 的忠实听众 🎵
@@ -46,7 +47,7 @@
   </picture>
 </div>
 
-## 🐍 贪吃蛇时间 / Snake
+## 🐍 提交历史 / Commit History
 
 <div align="center">
   <picture>
@@ -62,10 +63,12 @@
   <a href="https://www.zxymiku.top">
     <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-zxymiku.top-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:zxymiku@zxymiku.top">
-    <img src="https://img.shields.io/badge/Email-zxymiku%40zxymiku.top-58a6ff?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  <a href="https://gchq.github.io/CyberChef/#recipe=From_Base64(%27A-Za-z%2B%2F%3D%27,true)&input=enh5bWlrdUB6eHltaWt1LnRvcA%3D%3D" rel="nofollow">
+    <img src="https://img.shields.io/badge/Email%20%28Base64%29-enh5bWlrdUB6eHltaWt1LnRvcA%3D%3D-3fb950?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Email (Base64)" />
   </a>
 </div>
+
+<p align="center"><sub>🔐 想拿我的邮箱？上面那串 Base64 解一下就有了 —— CTFer 懂的都懂</sub></p>
 
 ---
 
